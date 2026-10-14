@@ -1,0 +1,6 @@
+{
+  "name": "Red Chilli Restaurant",
+  "description": "Exquisite Indian fine dining restaurant with featured royal interior, authentic tandoori and Awadhi cuisine, online table reservations, and contactless QR menu ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
